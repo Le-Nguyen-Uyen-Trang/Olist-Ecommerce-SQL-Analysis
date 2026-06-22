@@ -1,6 +1,5 @@
-<img width="242" height="259" alt="image" src="https://github.com/user-attachments/assets/83a4af65-35b7-4619-b42c-011c1102bc12" /># Olist-Ecommerce-SQL-Analysis
-Olist E-Commerce (Brazil) data analysis project using PostgreSQL. Solving key business problems regarding Revenue, Customer Analysis (RFM), Logistics performance, and Product Quality.
 #  Olist E-Commerce Data Analysis Using SQL
+Olist E-Commerce (Brazil) data analysis project using PostgreSQL. Solving key business problems regarding Revenue, Customer Analysis (RFM), Logistics performance, and Product Quality.
 
 ## 1. Introduction
 This project utilizes **PostgreSQL (pgAdmin)** to analyze real-world e-commerce data from Olist (Brazil). The primary objective is to transform raw data into actionable business insights covering sales optimization, product quality, seller performance, and logistics management.
