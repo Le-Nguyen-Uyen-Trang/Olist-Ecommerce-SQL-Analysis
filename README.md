@@ -43,7 +43,7 @@ LIMIT 10;
 
 ---
 
-**#### Query 2: Top 10 sellers by total revenue**
+#### Query 2: Top 10 sellers by total revenue**
 ```sql
 SELECT 
     seller_id,
